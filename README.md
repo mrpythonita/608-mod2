@@ -18,7 +18,7 @@ Python 3 is the environment utilized with the addition of the following librarie
 
 ```
 import statistics
-data = [i for i in rnage(1,2000)]
+data = [i for i in range(1,2000)]
 
 ```
 
