@@ -1,5 +1,5 @@
 #Using native Python programming to calculate measure of central tendency
-data=[i for i in range(2000)]
+data=[i for i in range(1,2000)]
 count=len(data)
 summation= sum(data)
 mean= sum(data)/len(data)
