@@ -2,7 +2,6 @@
 -------------------------
 ## Introduction 
 The scope of this project is to use both Python native programming functionalities, and the statistics module to calculate count, sum, mean, median, and mode. Both approaches are expected to return the same results.
-
 ## Getting Started
 
 There is one data-set avalilabe for this project and it is a list of 1000 numbers created with list comprehension.
