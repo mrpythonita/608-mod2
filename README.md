@@ -2,7 +2,7 @@
 NMSU Graduate Course Work
 -------------------------
 ## Introduction 
-The scope of this project is to use both Python native programming functionalities, and the statistics module to calucalate count, sum, mean, median, and mode. Both approaches are expected to return the same results.
+The scope of this project is to use both Python native programming functionalities, and the statistics module to calculate count, sum, mean, median, and mode. Both approaches are expected to return the same results.
 
 ## Getting Started
 
