@@ -1,2 +1,40 @@
-# 608-mod2
-Graduate Course Work
+# Project: 608-mod2
+NWMSU Graduate Course Work
+-------------------------
+## Introduction 
+The scope of this projesct is to use both Python native programming functionalities, and the statistics module to calucalate count, sum, mean, median, and mode. Both approaches are expected to return the same results.
+
+## Getting Started
+
+There is one data-set avalilabe for this project and it is a list of 1000 numbers create with a list comprehension.
+
+* __Defining Variables__
+* __Generating Descriptive Statistics__
+* __Understanding Data with Data Visualizations__
+* __Conducting Hypothesis Testing__
+* __Statistical Analysis & Conclusion__
+
+## Prerequisites
+
+Python 3 is the environment utilized with the addition of the following libraries:
+
+* __statistics__ (+ dependencies) 
+
+## Installing
+
+```
+import statistics
+data = [i for i in rnage(1,2000)]
+
+```
+
+## Deployment
+
+* **central-native.py**: python file for creating/testing the core logic implemented in this project.
+* **central-with-statistics.py**: python for creating/testing the core logic implemented in this project.
+
+
+## _Acknowledgments_
+
+* www.geeksforgeeks.org
+
