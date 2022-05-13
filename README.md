@@ -8,12 +8,6 @@ The scope of this project is to use both Python native programming functionaliti
 
 There is one data-set avalilabe for this project and it is a list of 1000 numbers created with list comprehension.
 
-* __Defining Variables__
-* __Generating Descriptive Statistics__
-* __Understanding Data with Data Visualizations__
-* __Conducting Hypothesis Testing__
-* __Statistical Analysis & Conclusion__
-
 ## Prerequisites
 
 Python 3 is the environment utilized with the addition of the following libraries:
